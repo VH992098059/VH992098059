@@ -52,11 +52,6 @@
 - **Tech Stack:** React, TypeScript, Vite
 - **Features:** 开箱即用、最佳实践、组件库集成
 
-### 🌐 [Forum SpringCloud](https://github.com/VH992098059/forumSpringCloud)
-**微服务论坛系统** - 基于Spring Cloud的分布式论坛应用
-- **Tech Stack:** Java, Spring Boot, Spring Cloud
-- **Features:** 微服务架构、分布式部署、高可用性
-
 ### 🧠 [LeetCode Algorithm](https://github.com/VH992098059/leetcode_algorithm)
 **算法练习集** - Go语言实现的算法和数据结构练习
 - **Tech Stack:** Go
